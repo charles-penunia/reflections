@@ -21,3 +21,8 @@ your history organized? How would branches help?
 Branches would be convenient when I am creating versions for different
 platforms. I can simply tweak each repository to work for a certain 
 platform while keeping the master branch.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help me show which commits are shown when I use the git log
+command while checked out on a random commit. It will also help me
+determine which commits are unreachable.
