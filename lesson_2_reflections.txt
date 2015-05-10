@@ -8,3 +8,10 @@ repository? What value do you think it offers?
 I can control all of the files that can go to the staging area.
 I can use the staging area to choose files that I know will function
 correctly and leave the other files out.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+I can use the git diff and git diff --staged commands to compare my
+recent changes with the previous files. This will enable me to
+see the amount of changes and determine whether I should commit or
+not.
