@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initialize my first repository, a file called .git is created.
+This file will enable me to create commits so I can use git bash on the
+repository.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+I can control all of the files that can go to the staging area.
+I can use the staging area to choose files that I know will function
+correctly and leave the other files out.
