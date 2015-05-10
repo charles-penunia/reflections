@@ -15,3 +15,9 @@ I can use the git diff and git diff --staged commands to compare my
 recent changes with the previous files. This will enable me to
 see the amount of changes and determine whether I should commit or
 not.
+
+What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+Branches would be convenient when I am creating versions for different
+platforms. I can simply tweak each repository to work for a certain 
+platform while keeping the master branch.
