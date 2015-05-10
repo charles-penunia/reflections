@@ -26,3 +26,12 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help me show which commits are shown when I use the git log
 command while checked out on a random commit. It will also help me
 determine which commits are unreachable.
+
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+Lines that have been added from the original file will be added,
+lines that have been unchanged will be maintained, and lines that were 
+removed will not be included. All of these rules will apply to the most
+recent commit, which has parents from each of the merged branches. The
+merge is represented in the diagram the way it is because it shows its
+relationship with the two branches.
