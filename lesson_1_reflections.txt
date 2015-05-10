@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file 
+help you see the bug that was introduced?
+The diff command finds and pinpoints differences between
+the two files. If the old file works and the new file is 
+bugged, then diff will show all the changes that
+possibly caused the bug.
+
+How could having easy access to the entire history of a 
+file make you a more efficient programmer in the long term?
+If I lost progress when updating a file, I can revert back 
+to an older version rather than starting from scratch.
+
+What do you think are the pros and cons of manually choosing 
+when to create a commit, like you do in Git, vs having 
+versions automatically saved, like Google docs does?
+If I manually save, then I can group releated changes into
+one file. However, I have to rely on my own judgment to
+determine when I can save. If I use a tool that auto saves,
+then I do not need to worry about saving. However, the auto
+saves can create files with either too little or too big
+changes.
+
+Why do you think some version control systems, like Git, allow 
+saving multiple files in one commit, while others, like Google 
+Docs, treat each file separately?
+Git is built for coding, so programmers will most likely work
+on projects that involve multiple files. Google Docs is bulit for
+storing documents that is not likely to have any relation to each
+other.
+
+How can you use the commands git log and git diff to view the
+history of files?
+Git log provides all of the commits of the files. Git diff
+identifies the differences between the two files. With those two
+commands, I can see how the files change over time.
+
+How might using version control make you more confident to make 
+changes that could break something?
+Version control enables me to go to an older file if a newer file
+is buggy. Therefore, I can detect bugs easily without worring
+about losing the file.
+
+Now that you have your workspace set up, what do you want to try 
+using Git for?
+I would like to use Git to control my future college projects.
