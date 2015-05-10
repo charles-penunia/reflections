@@ -35,3 +35,11 @@ removed will not be included. All of these rules will apply to the most
 recent commit, which has parents from each of the merged branches. The
 merge is represented in the diagram the way it is because it shows its
 relationship with the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+Git's automatic merging will take care of lines that are not in confict
+within the files. However, Git cannnot automatically merge when there is
+a conflict. Manually merging is the only way to resolve conflicting lines.
+However, lines that should be removed or added also needs to be identified
+manually.
