@@ -14,3 +14,7 @@ else's repo from Github to a local computer. A branch contains all of the commit
 not affect other branches. A fork can be used when I want other users to collaborate. 
 A clone can be used when I want to work offline or create a large amount of edits. A branch 
 can be used when I want to make custom edits.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I can easily find out any changes and potential conflicts when I fetch the commits from
+the Github repo.
