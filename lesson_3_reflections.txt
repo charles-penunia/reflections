@@ -16,5 +16,5 @@ A clone can be used when I want to work offline or create a large amount of edit
 can be used when I want to make custom edits.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-It will be easier to spot recent changes on Github and spot conflicts when the commits are
-fetched.
+I can easily spot any changes and potential conflicts when I fetch the commits from
+the Github repo.
