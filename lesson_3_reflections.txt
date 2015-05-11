@@ -18,3 +18,8 @@ can be used when I want to make custom edits.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I can easily spot any changes and potential conflicts when I fetch the commits from
 the Github repo.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can use a video chat to directly communicate and share the files among the collaborators. This
+approach will get quicker feedback, but negotiation will be more difficult. The approach also relies
+on a internet connection, which is not required by Git.
